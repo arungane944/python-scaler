@@ -1,3 +1,4 @@
+#String immutable
 abc = "Arun"
 edd = "Arun"
 
