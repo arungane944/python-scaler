@@ -20,5 +20,3 @@ print(type(se))
 
 for num in numbers:
     print(num, end=" ")
-
-se.
