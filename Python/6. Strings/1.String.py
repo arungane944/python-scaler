@@ -1,8 +1,10 @@
-#String immutable
+
+# !! String immutable
 abc = "Arun"
 edd = "Arun"
 
 print(abc == edd)
+print(abc is edd)
 print(id(abc), id(edd))
 
 print(abc[2]) # access character through indexing

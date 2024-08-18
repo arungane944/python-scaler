@@ -1,0 +1,50 @@
+{
+    "window.zoomLevel": 1,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-show-information-expiration": "2023-10-05T14:23:02.461Z"
+    },
+    "git.enableSmartCommit": true,
+    "aws.suppressPrompts": {
+        "codeWhispererConnectionExpired": true
+    },
+    "files.autoSave": "afterDelay",
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "better-comments.multilineComments": true,
+    "better-comments.highlightPlainText": false,
+    "better-comments.tags": [
+        {
+          "tag": "!!",
+          "color": "#F6FF33",
+          "strikethrough": false,
+          "backgroundColor": "transparent"
+        },
+        {
+          "tag": "?",
+          "color": "#8B0000",
+          "strikethrough": false,
+          "backgroundColor": "transparent"
+        },
+        {
+          "tag": "/",
+          "color": "#FFFF00",
+          "strikethrough": false,
+          "backgroundColor": "transparent"
+        },
+        {
+          "tag": "%",
+          "color": "#68FF33",
+          "strikethrough": false,
+          "backgroundColor": "transparent"
+        },
+        {
+          "tag": "**",
+          "color": "#FF33EC",
+          "strikethrough": false,
+          "backgroundColor": "transparent"
+        }
+      ]
+}

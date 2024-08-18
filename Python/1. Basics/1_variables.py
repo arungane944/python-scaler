@@ -1,9 +1,9 @@
-# variable can't start with numeric
-# underscore are allowed
-# combination of alphanumerics allowed
-# inbuild keyboard can't be used eg: False
 
-# wqd
+# !! variable can't start with numeric
+# !! underscore are allowed
+# !! combination of alphanumerics allowed
+# !! inbuild keyboard can't be used eg: False
+
 
 a=5
 print(a)

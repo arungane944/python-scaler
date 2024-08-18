@@ -1,4 +1,5 @@
-### By default, Input function value is string ###
+
+# ? By default, Input function value is string
 
 x = input()
 y = input()
