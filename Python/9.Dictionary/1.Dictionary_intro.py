@@ -15,8 +15,8 @@ print(type(d1))
 # non empty dict
 
 fruits = {
-    "Apple" : 120,
-    "mongo" : 23,
+    "mongo" : 120,
+    "Apple" : 23,
     "pineapple" : 56
     }
 

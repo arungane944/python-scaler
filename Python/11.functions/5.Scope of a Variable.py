@@ -5,4 +5,4 @@ def my_function():
     print(x)
 
 my_function()
-print(x)  # This will raise an error because x is not defined outside the function
+print(x)
