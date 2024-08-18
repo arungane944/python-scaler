@@ -5,8 +5,8 @@ new_student = "pradeep"
 
 # append
 
-#students_a.append(students_b)
-#print(students_a)
+students_a.append(students_b)
+print(students_a)
 
 # extend -> Internally iterate the object and add one by one
 students_a.extend(students_b)

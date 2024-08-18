@@ -6,7 +6,7 @@ print(type(students))
 students_1 = tuple()
 print(type(students_1))
 
-t1 = (1) # Very important. Here considered as oprations
+t1 = (1) # ? Very important. Here considered as oprations
 print(type(t1))
 
 t2 = (1,2)

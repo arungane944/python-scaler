@@ -1,5 +1,6 @@
-#list mutable
-# list index always starts with 0
+
+# !! list mutable
+# !! list index always starts with 0
 l1 = [1,2,3,4,5]
 
 print(len(l1))
