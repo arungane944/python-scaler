@@ -1,7 +1,8 @@
-# 1. Stores data in key and value pair
-# 2. Ordered datastructure
-# 3. Doesnot store indexing
-# 4. Data can be accessed with key
+
+# !! 1. Stores data in key and value pair
+# !! 2. Ordered datastructure
+# !! 3. Doesnot store indexing
+# !! 4. Data can be accessed with key
 
 d = {}
 print(type(d))
@@ -27,7 +28,7 @@ name = ["Apple","Mongo","Pineapple"]
 price = [120,23,56]
 print(type(name), type(price))
 
-good_fruits = dict(zip(name,price))
+good_fruits = dict(zip(name,price))  # !! very important
 
 print(good_fruits)
 
