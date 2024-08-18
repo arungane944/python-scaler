@@ -5,7 +5,9 @@ def is_palindrome(text):
     text = text.lower().replace(" ", "")
     
     # Check if the text is equal to its reverse
-    return text == text[::-1]
+    # !! The == operator checks equality of values rather than comparing memory addresses.
+    # !! Specifically, it compares the actual content of the two strings (character by character) to determine if they are the same.
+    return text == text[::-1]  
 
 # Test the function with a sample string
 text = "radar"

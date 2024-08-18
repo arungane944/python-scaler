@@ -21,7 +21,7 @@ print(name.index("a"))
 
 print(name.replace("a", "A"))
 
-print(name.split())
+print(name.split())  # !! creates a list as ['Rahul', 'Janghu']
 
 print(name.split("a"))
 
