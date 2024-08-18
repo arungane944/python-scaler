@@ -8,6 +8,8 @@ b = 10
 print(id(a))  # Output: 140734564202576 (example value)
 print(id(b))  # Output: 140734564202576 (same as above, because a and b point to the same object)
 
+print(id(a)==id(b))
+
 c = []
 d = []
 
